@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Hackday]]></title>
         <description><![CDATA[Hackday]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hackday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 22:08:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 22:12:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hackday/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Neuroscience of Drumming: Researchers Discover the Secrets of Drumming & The Human Brain]]></title>
+            <description><![CDATA[<article><h1>The Neuroscience of Drumming: Researchers Discover the Secrets of Drumming & The Human Brain</h1><p>An old musician's joke goes "there are three kinds of drummers in the world-those who can count and those who can't." But perhaps there is an even more global divide. Perhaps there are three kinds of people in the world-those who can drum and those who can't.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5858e54cbeed65a3ada575487c48e1f2dea05077.png"></article>]]></description>
+            <link>http://www.openculture.com/2015/08/the-neuroscience-of-drumming.html</link>
+            <guid isPermaLink="false">8db66660-481f-41f3-b64e-b0220fa2ed54</guid>
+            <pubDate>Mon, 01 Feb 2016 22:12:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Jane Kim Is Reviving the Art of the Museum Diorama]]></title>
-            <description><![CDATA[<article><h1>How Jane Kim Is Reviving the Art of the Museum Diorama</h1><p>Jane Kim was nearing the end of a science illustration internship at the Cornell Lab of Ornithology in 2011-honing her ornithology drawing skills-when John Fitzpatrick, the lab's director, showed her a blank 3,000-square-foot, four-story-high wall in the lab's visitor center. "That wall has been screaming to be a mural since we moved in" eight years earlier, Fitzpatrick told Kim.</p><img src="http://www.outsideonline.com/sites/default/files/styles/full-page/public/jane-kim-mural-main_h.jpg?itok=zjfu82aI"></article>]]></description>
+            <description><![CDATA[<article><h1>How Jane Kim Is Reviving the Art of the Museum Diorama</h1><p>Jane Kim was nearing the end of a science illustration internship at the Cornell Lab of Ornithology in 2011-honing her ornithology drawing skills-when John Fitzpatrick, the lab's director, showed her a blank 3,000-square-foot, four-story-high wall in the lab's visitor center. "That wall has been screaming to be a mural since we moved in" eight years earlier, Fitzpatrick told Kim.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0a77a2dc408febf607496dc5aa3e5462e2440a6.jpg"></article>]]></description>
             <link>http://www.outsideonline.com/2046471/jane-kim-21st-century-artist-natural-kingdom?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=tweet</link>
             <guid isPermaLink="false">1bf57c99-6f7f-49e5-a1b5-4835c24eb4f0</guid>
             <pubDate>Mon, 01 Feb 2016 22:08:09 GMT</pubDate>
